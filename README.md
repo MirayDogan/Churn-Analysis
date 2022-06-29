@@ -1,0 +1,2 @@
+# Churn-Analysis
+INTRODUCTION Churn analysis is most important thing for techology companys because tech company’s product can be reach easyly and there are a lot of similar product on this sector. Customer loyalty can be shaken because of the easy access to the products and the fact that there are too many alternatives in the sector. The aim is to develop a data-driven solution on the basis of minimizing loss rates and ultimately helping us increase customer satisfaction and corporate revenue.
